@@ -19,7 +19,7 @@ Genrerating test data for synrad and nowcast.
 
 Notebooks :- https://github.com/nishanthrk309/DAMG7245/tree/main/BigData_Assignment2
 
-**Part 2:- **
+**Part 2:**
 
 Use case for Team-09 -> Weather App
 
